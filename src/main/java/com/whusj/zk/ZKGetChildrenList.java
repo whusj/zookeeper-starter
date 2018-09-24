@@ -1,4 +1,4 @@
-package com.whus.zk;
+package com.whusj.zk;
 
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.WatchedEvent;
