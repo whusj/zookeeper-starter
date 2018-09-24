@@ -1,8 +1,7 @@
-package com.whus.zk.demo;
+package com.whus.zk;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.ACL;
-import org.apache.zookeeper.data.Stat;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

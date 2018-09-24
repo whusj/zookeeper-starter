@@ -1,4 +1,4 @@
-package com.whus.zk.demo;
+package com.whus.zk;
 
 
 import java.util.List;

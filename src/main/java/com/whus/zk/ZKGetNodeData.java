@@ -1,4 +1,4 @@
-package com.whus.zk.demo;
+package com.whus.zk;
 
 import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
