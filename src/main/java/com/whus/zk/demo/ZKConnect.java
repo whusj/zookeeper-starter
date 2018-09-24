@@ -5,7 +5,11 @@ import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+/**
+ * @Title: ZKConnectDemo.java
+ * @Package com.imooc.zk.demo
+ * @Description: zookeeper 连接demo演示
+ */
 public class ZKConnect implements Watcher {
 
     final static Logger log = LoggerFactory.getLogger(ZKConnect.class);
